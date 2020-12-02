@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![sarthou's github stats](https://github-readme-stats.vercel.app/api?username=sarthou)](https://github.com/sarthou)
+
+- 🔭 I’m currently working on ontology-based Referring Expression Generation for Human-Robot Interaction with my colleagues from the RIS group at LAAS-CNRS. 
+
+Here is an example:
+[![You should see the Pr2 giving instructions to its human partner](https://img.youtube.com/vi/3YnGh_t-UpY/0.jpg)](https://www.youtube.com/watch?v=3YnGh_t-UpY&t=25s)
