@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![sarthou's github stats](https://github-readme-stats.vercel.app/api?username=sarthou)](https://github.com/sarthou)
 
-- 🔭 I’m currently working on ontology-based Referring Expression Generation for Human-Robot Interaction with my colleagues from the RIS group at LAAS-CNRS. 
+- 🔭 I’m currently working on geometric Situation Assessment with a strong link with an ontology. Adapted to Human-Robot Interraction, we do not only consider the robot point of view but also the humans's one to estimate their understanding of the current situation!
 
 Here is an example:
-[![You should see the Pr2 giving instructions to its human partner](https://img.youtube.com/vi/3YnGh_t-UpY/0.jpg)](https://www.youtube.com/watch?v=3YnGh_t-UpY&t=25s)
+[![You should see Pr2 trying to understand a situation](https://i.ytimg.com/vi/LUkjts8UacI/hq720.jpg)](https://www.youtube.com/watch?v=LUkjts8UacI)
